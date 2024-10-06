@@ -257,13 +257,13 @@ ul li a:hover {
 }
 
 @media (max-width: 920px) {
-  
-}
-
-@media (max-width: 920px) {
   nav .checkbox {
     display: block;
   }
+
+   .fon{
+    font-size: 12px;
+    }
 
   ul {
     position: absolute;
